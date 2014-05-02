@@ -1,0 +1,26 @@
+{
+  "family": "moe",
+  "name": "sortable",
+  "version": "0.0.1",
+  "description": "make list sortable",
+  "homepage": "https://github.com/moer/html5sortable",
+  "author": "airyland",
+  "maintainers": [
+    "airyland"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/moer/html5sortable.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["sortable.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
